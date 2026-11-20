@@ -1,0 +1,14 @@
+# CLion & CMake build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+.idea/
+
+# Compiled binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Local save data
+highscore.txt
